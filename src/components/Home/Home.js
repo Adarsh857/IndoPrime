@@ -14,7 +14,8 @@ const Home = () => {
   }, [dispatch]);
   return (
     <div>
-      <div className="banner-img"> </div> <MovieListing />
+      <div className="banner-img"></div>
+      <MovieListing />
     </div>
   );
 };
