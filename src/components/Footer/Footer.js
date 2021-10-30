@@ -4,7 +4,7 @@ import "./Fotter.scss";
 const Footer = () => {
   return (
     <div className="footer">
-      <div>Movie App</div>
+      <div>IndoPrime</div>
       <div>©2021, Movie, Inc. or its affiliates</div>
     </div>
   );
