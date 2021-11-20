@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.cacf8599.chunk.css",
-    "main.js": "/my-app/static/js/main.7e213440.chunk.js",
-    "main.js.map": "/my-app/static/js/main.7e213440.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.66ec46bc.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.66ec46bc.js.map",
-    "static/js/2.1c2317c4.chunk.js": "/my-app/static/js/2.1c2317c4.chunk.js",
-    "static/js/2.1c2317c4.chunk.js.map": "/my-app/static/js/2.1c2317c4.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.cacf8599.chunk.css.map": "/my-app/static/css/main.cacf8599.chunk.css.map",
-    "static/js/2.1c2317c4.chunk.js.LICENSE.txt": "/my-app/static/js/2.1c2317c4.chunk.js.LICENSE.txt",
-    "static/media/user.109eb920.png": "/my-app/static/media/user.109eb920.png"
+    "main.css": "/IndoPrime/static/css/main.cacf8599.chunk.css",
+    "main.js": "/IndoPrime/static/js/main.7e213440.chunk.js",
+    "main.js.map": "/IndoPrime/static/js/main.7e213440.chunk.js.map",
+    "runtime-main.js": "/IndoPrime/static/js/runtime-main.47e61942.js",
+    "runtime-main.js.map": "/IndoPrime/static/js/runtime-main.47e61942.js.map",
+    "static/js/2.1c2317c4.chunk.js": "/IndoPrime/static/js/2.1c2317c4.chunk.js",
+    "static/js/2.1c2317c4.chunk.js.map": "/IndoPrime/static/js/2.1c2317c4.chunk.js.map",
+    "index.html": "/IndoPrime/index.html",
+    "static/css/main.cacf8599.chunk.css.map": "/IndoPrime/static/css/main.cacf8599.chunk.css.map",
+    "static/js/2.1c2317c4.chunk.js.LICENSE.txt": "/IndoPrime/static/js/2.1c2317c4.chunk.js.LICENSE.txt",
+    "static/media/user.109eb920.png": "/IndoPrime/static/media/user.109eb920.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.66ec46bc.js",
+    "static/js/runtime-main.47e61942.js",
     "static/js/2.1c2317c4.chunk.js",
     "static/css/main.cacf8599.chunk.css",
     "static/js/main.7e213440.chunk.js"
