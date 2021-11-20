@@ -1,7 +1,7 @@
 {
     "name": "movie",
     "version": "0.1.0",
-    "homepage": "https://myusername.github.io/my-app",
+    "homepage": "https://myusername.github.io/IndoPrime",
     "private": true,
     "dependencies": {
         "@reduxjs/toolkit": "^1.6.2",
